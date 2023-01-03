@@ -1,6 +1,6 @@
 # nyc-transit
 
-#### This is the code used to build [this Shiny application](https://ltk2118.github.io/home/). 
+#### This is the code used to build [this Shiny application](https://ltk2118.shinyapps.io/nyc-transit/). 
 
 The app presents interactive data on a new measure of **public transit accessibility to public services** calculated using a route optimization engine. The specific use case presented here is for public transit accessibility to higher education institutions from Brooklyn, using Google's [Directions API](https://developers.google.com/maps/documentation/directions/overview). 
 
